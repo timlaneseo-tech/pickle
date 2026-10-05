@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -20 400 400" width="1024" height="1024" role="img" aria-label="PICKLE mascot">
+<style>
+.pk-body{fill:#5E9E3A;stroke:#1F3A12;stroke-width:10;stroke-linejoin:round}
+.pk-hl{fill:#7DB65A}
+.pk-bump{fill:#4A852B}
+.pk-eye{fill:#FFF8E7}
+.pk-ink{fill:#1F3A12}
+.pk-lid{fill:#5E9E3A}
+.pk-ol8{fill:none;stroke:#1F3A12;stroke-width:8;stroke-linecap:round;stroke-linejoin:round}
+.pk-ol9{fill:none;stroke:#1F3A12;stroke-width:9;stroke-linecap:round;stroke-linejoin:round}
+.pk-ol6{fill:none;stroke:#1F3A12;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+.pk-hat{fill:#FFD45C;stroke:#1F3A12;stroke-width:9;stroke-linejoin:round}
+.pk-pom{fill:#E2483D;stroke:#1F3A12;stroke-width:8}
+</style>
+<g transform="rotate(-10 200 220)">
+<path class="pk-body" d="M200 78 C250 76 282 110 284 160 C286 185 278 200 282 222 C286 250 292 280 278 312 C262 350 225 366 190 362 C150 358 118 335 114 295 C110 265 120 250 116 225 C112 200 118 180 122 150 C130 105 160 79 200 78 Z"/>
+<path class="pk-hl" d="M140 150 C132 190 132 250 140 300 C146 310 156 306 154 294 C148 250 148 195 154 158 C156 146 142 140 140 150 Z"/>
+<ellipse class="pk-bump" cx="160" cy="292" rx="8" ry="6"/>
+<ellipse class="pk-bump" cx="196" cy="330" rx="8" ry="6"/>
+<ellipse class="pk-bump" cx="238" cy="316" rx="7" ry="5"/>
+<ellipse class="pk-bump" cx="262" cy="270" rx="7" ry="5"/>
+<ellipse class="pk-bump" cx="258" cy="122" rx="6" ry="4.5"/>
+<ellipse class="pk-bump" cx="206" cy="282" rx="6" ry="4.5"/>
+<ellipse class="pk-eye" cx="165" cy="180" rx="26" ry="24"/>
+<circle class="pk-ink" cx="176" cy="188" r="10"/>
+<circle class="pk-eye" cx="179" cy="184" r="3"/>
+<path class="pk-lid" d="M143.9 166 A26 24 0 0 1 186.1 166 Z"/>
+<ellipse class="pk-ol8" cx="165" cy="180" rx="26" ry="24"/>
+<path class="pk-ol8" d="M143.9 166 L186.1 166"/>
+<ellipse class="pk-eye" cx="235" cy="176" rx="26" ry="24"/>
+<circle class="pk-ink" cx="247" cy="186" r="10"/>
+<circle class="pk-eye" cx="250" cy="183" r="3"/>
+<path class="pk-lid" d="M209.1 174 A26 24 0 0 1 260.9 174 Z"/>
+<ellipse class="pk-ol8" cx="235" cy="176" rx="26" ry="24"/>
+<path class="pk-ol8" d="M209.1 174 L260.9 174"/>
+<path class="pk-ol9" d="M138 140 Q160 112 192 130"/>
+<path class="pk-ol9" d="M211 144 Q236 138 262 143"/>
+<path class="pk-ol8" d="M180 236 Q208 248 240 226"/>
+<path class="pk-ol6" d="M236 216 Q246 222 243 233"/>
+<path class="pk-hat" d="M176 96 L226 14 L254 80 Q215 92 176 96 Z"/>
+<path class="pk-ol6" d="M192.5 68.9 L244.8 58.2"/>
+<path class="pk-ol6" d="M207 45.2 L236.6 39.1"/>
+<circle class="pk-pom" cx="226" cy="14" r="14"/>
+</g>
+</svg>
